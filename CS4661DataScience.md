@@ -34,4 +34,6 @@ Format
 
 ##### **Getting Ready for Fall2020**
 
-* 
+* Professor : 
+* [Syllabus] :
+* Textbook :
