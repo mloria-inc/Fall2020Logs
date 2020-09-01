@@ -112,7 +112,7 @@ What is an operating system?
 * operating system goals:
   * execute user programs and make solving user problems easier
   * make the computer system more convenient to use
-  * use the computer hardware in an efffiecient manner
+  * use the computer hardware in an effficient manner
 
 What Operating Systems Do
 * depends on the point of view

@@ -36,5 +36,4 @@ Format
 
 * Professor : Stephanie August
 * [Syllabus] : https://calstatela.instructure.com/courses/52369/pages/complete-course-syllabus-8-slash-21-slash-2020?module_item_id=2272570
-
-* Textbook :
+* Textbook : No required text
