@@ -21,7 +21,7 @@ Format
 ##### ***Time***
 
 ##### **Note Subject/Focus**
-
+z
 * notes
   * more notes
     * even more notes
@@ -61,8 +61,7 @@ Sudbury, Massachusetts: Jones & Bartlett, 2017. ISBN-13: 978-1-284077247
 
 ##### ***1:35pm***
 
-##### **Chpter 1 (Section 1.1) Sets**
-
+##### **Chapter 1 (Section 1.1) Sets** 
 * a set is a collection of elements 
   *  A = {1,2,3}
   *  B = {train, bus, bicycle, airplane}
