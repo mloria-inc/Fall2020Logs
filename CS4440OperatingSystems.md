@@ -128,3 +128,14 @@ Computer Startup
   * typically stored in ROM or EPROM, generally knowwn as fimware
   * initializes all aspects of system
   * loads operating system kernel and starts execution
+
+### **9 September 2020**
+
+##### ***1:50pm***
+
+##### **Unix Tutorial**
+
+##### The Kernel
+* the kernel of unix is the hub of the operating system: it allocates time and memory to programs and handles the filestore and communications in respnse to system calls
+
+

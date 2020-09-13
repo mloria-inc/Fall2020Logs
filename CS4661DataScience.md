@@ -127,7 +127,7 @@ Format
 * Training Data: past observations given to the machine learning algorithm to learn from (training) e.g. temperature and humidity of the past 30 days, along with the label for those days
 * Testing or Prediction Data: observations given to a "predictive model" for prediction 
 
-![](basicexample.jpg)
+![](resources/basicexample.jpg)
 
 * realistically is tyrying to find the classifier in a 100 dimensional space with mixed labels
 
