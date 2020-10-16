@@ -112,12 +112,12 @@ What is an operating system?
 * operating system goals:
   * execute user programs and make solving user problems easier
   * make the computer system more convenient to use
-  * use the computer hardware in an effficient manner
+  * use the computer hardware in an efficient manner
 
 What Operating Systems Do
 * depends on the point of view
 * users want convenience, ease of use and good performance
-  * dont care about resource utilization
+  * don't care about resource utilization
 
 Operating System Definition
 * OS is a resource allocator
@@ -125,7 +125,7 @@ Operating System Definition
 
 Computer Startup
 * bootstrap program is loaded at power up or reboot
-  * typically stored in ROM or EPROM, generally knowwn as fimware
+  * typically stored in ROM or EPROM, generally known as firmware
   * initializes all aspects of system
   * loads operating system kernel and starts execution
 
@@ -136,6 +136,14 @@ Computer Startup
 ##### **Unix Tutorial**
 
 ##### The Kernel
-* the kernel of unix is the hub of the operating system: it allocates time and memory to programs and handles the filestore and communications in respnse to system calls
+* the kernel of unix is the hub of the operating system: it allocates time and memory to programs and handles the file store and communications in response to system calls
+
+### **14 September 2020**
+
+##### ***1:40pm***
+
+![](resources/OS1.jpg)
+![](resources/os3.jpg)
+
 
 
